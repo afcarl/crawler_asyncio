@@ -1,0 +1,1048 @@
+{
+    "": {
+        "assets": [
+            "android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=tomblomfield",
+            "http://68.media.tumblr.com/76dea195e0390191ceeefba0effbdce9/tumblr_inline_n37sxtY37t1r5tr1m.png",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://68.media.tumblr.com/b85a6d5d56c36b155d13ac7d2684d98a/tumblr_inline_n37sy2AZA91r5tr1m.png",
+            "http://68.media.tumblr.com/ddebec46b60f554989f09682fc3d8e71/tumblr_inline_mtj697fPI11r5tr1m.jpg",
+            "http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65",
+            "http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af",
+            "http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=29c83e8408db12f26266e69a91022931",
+            "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/6000/300/6379/6379.strip.sunday.gif",
+            "http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css",
+            "http://requirejs.org/docs/release/1.0.3/minified/require.js",
+            "http://tomblomfield.com",
+            "http://tomblomfield.com/rss",
+            "http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586?s=128&d=identicon&r=PG",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3RvbWJsb21maWVsZC5jb21cLyIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC8iLCJwb3N0cyI6W3sicG9zdGlkIjoiMTM2NzU5NDQxODcwIiwiYmxvZ2lkIjoiMzk5MjE0NTQiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjEzNTEyMDYwMDM2MCIsImJsb2dpZCI6IjM5OTIxNDU0Iiwic291cmNlIjozM30seyJwb3N0aWQiOiIxMzI4MTAzOTAxNTUiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiOTczMDQ0MTA1MDAiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiODExMDUxNDMyMjMiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiODExMTE5Mzg1NjMiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiNjI2MTkyODI3OTciLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiNjIzNDI5NDkyOTQiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiNjE5NTg2MjkxNTYiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiNjE3NjA1NTIzOTgiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9XSwibm9zY3JpcHQiOjF9&U=CKBPDEOFDJ&K=39e9b9f907e777a004ae459e780f9290d0cf273eb7b833a1b6ef8c081fef5f65&R=",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvIiwicmVxdHlwZSI6MCwicm91dGUiOiJcLyIsIm5vc2NyaXB0IjoxfQ==&U=IGIEOABLDG&K=86f82e31ca1069fdf386770b4984f2395ce2c848b35bc37b769809d25fe7515b&R=",
+            "ios-app://305343404/tumblr/x-callback-url/blog?blogName=tomblomfield"
+        ],
+        "links": [
+            "",
+            "about",
+            "archive",
+            "day/2013/09/20",
+            "day/2013/09/22",
+            "day/2013/09/26",
+            "day/2013/09/29",
+            "day/2014/03/29",
+            "day/2014/07/10",
+            "day/2014/09/12",
+            "day/2015/11/08",
+            "day/2015/12/13",
+            "day/2016/01/14",
+            "page/2",
+            "random"
+        ]
+    },
+    "about": {
+        "assets": [
+            "android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=tomblomfield%26postID=",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65",
+            "http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af",
+            "http://assets.tumblr.com/assets/scripts/vendor/yahoo/rapid/rapid-3.36.1.js?_v=3b0d7a4e23178897fac6d49af2ff6786",
+            "http://assets.tumblr.com/assets/scripts/vendor/yahoo/rapid/rapidworker-1.2.js?_v=64b310f9f1e9592145e53d88c933f498",
+            "http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=29c83e8408db12f26266e69a91022931",
+            "http://disqus.com/forums/tomblomfield/embed.js",
+            "http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css",
+            "http://requirejs.org/docs/release/1.0.3/minified/require.js",
+            "http://tomblomfield.com/about",
+            "http://tomblomfield.com/rss",
+            "http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586?s=128&d=identicon&r=PG",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvYWJvdXQiLCJyZXF0eXBlIjowLCJyb3V0ZSI6ImN1c3RvbV9wYWdlIiwibm9zY3JpcHQiOjF9&U=NDLGGEHNDA&K=a69cb3a139cda479eadc94b175375232bd9f2c5f841b7ce30cfe2a206133b5f4&R=",
+            "ios-app://305343404/tumblr/x-callback-url/blog?blogName=tomblomfield&postID="
+        ],
+        "links": [
+            "",
+            "about",
+            "archive",
+            "random"
+        ]
+    },
+    "archive": {
+        "assets": [
+            "http://68.media.tumblr.com/76dea195e0390191ceeefba0effbdce9/tumblr_inline_n37sxtY37t1r5tr1m.png",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_40.png",
+            "http://68.media.tumblr.com/b85a6d5d56c36b155d13ac7d2684d98a/tumblr_inline_n37sy2AZA91r5tr1m.png",
+            "http://68.media.tumblr.com/ddebec46b60f554989f09682fc3d8e71/tumblr_inline_mtj697fPI11r5tr1m.jpg",
+            "http://assets.tumblr.com/assets/scripts/archive/archive.js?_v=3b002523fbc6392314dcc801a4f7b57f",
+            "http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js?_v=6d69cc67635a58d43e811b1afac99cde",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.css?_v=dccb68c0daadaa1fd016c4aa2306646c",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.js?_v=022d477286c6e9afcc5ed26ef51137f4",
+            "http://assets.tumblr.com/client/prod/app/global.build.css?_v=55c27261bf4787d02623cb51040f928f",
+            "http://assets.tumblr.com/client/prod/app/global.build.js?_v=2e4827d7074e4ba612a70d47417b93ab",
+            "http://assets.tumblr.com/client/prod/app/header.build.js?_v=b5587e45bc38ebe8e19947fe2234b0fe",
+            "http://assets.tumblr.com/client/prod/app/vendor.build.js?_v=97825e4683c4c975b3cb238a099e44cf",
+            "http://assets.tumblr.com/languages/strings/en_US.js?1343",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvYXJjaGl2ZSIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9hcmNoaXZlIiwibm9zY3JpcHQiOjF9&U=LLIMIEBEGI&K=aee3a92ca87b192e02aaf4dc373963a61ae9294e786feed70817553736a214cc&R="
+        ],
+        "links": [
+            "",
+            "archive",
+            "archive/2012/1",
+            "archive/2012/11",
+            "archive/2012/2",
+            "archive/2012/4",
+            "archive/2013/5",
+            "archive/2013/9",
+            "archive/2014/3",
+            "archive/2014/7",
+            "archive/2014/9",
+            "archive/2015/11",
+            "archive/2015/12",
+            "archive/2016/1"
+        ]
+    },
+    "archive/2012/1": {
+        "assets": [
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_40.png",
+            "http://assets.tumblr.com/assets/scripts/archive/archive.js?_v=3b002523fbc6392314dcc801a4f7b57f",
+            "http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js?_v=6d69cc67635a58d43e811b1afac99cde",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.css?_v=dccb68c0daadaa1fd016c4aa2306646c",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.js?_v=022d477286c6e9afcc5ed26ef51137f4",
+            "http://assets.tumblr.com/client/prod/app/global.build.css?_v=55c27261bf4787d02623cb51040f928f",
+            "http://assets.tumblr.com/client/prod/app/global.build.js?_v=2e4827d7074e4ba612a70d47417b93ab",
+            "http://assets.tumblr.com/client/prod/app/header.build.js?_v=b5587e45bc38ebe8e19947fe2234b0fe",
+            "http://assets.tumblr.com/client/prod/app/vendor.build.js?_v=97825e4683c4c975b3cb238a099e44cf",
+            "http://assets.tumblr.com/languages/strings/en_US.js?1343",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvYXJjaGl2ZVwvMjAxMlwvMSIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9hcmNoaXZlXC86eWVhclwvOm1vbnRoIiwibm9zY3JpcHQiOjF9&U=KJBEOEHHMN&K=b918bf751915adeba9e5cc9b8048c7a77e634b6dd339354d4d073be7598ec721&R="
+        ],
+        "links": [
+            "",
+            "archive/2012/1",
+            "archive/2012/11",
+            "archive/2012/2",
+            "archive/2012/4",
+            "archive/2013/5",
+            "archive/2013/9",
+            "archive/2014/3",
+            "archive/2014/7",
+            "archive/2014/9",
+            "archive/2015/11",
+            "archive/2015/12",
+            "archive/2016/1"
+        ]
+    },
+    "archive/2012/11": {
+        "assets": [
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_40.png",
+            "http://assets.tumblr.com/assets/scripts/archive/archive.js?_v=3b002523fbc6392314dcc801a4f7b57f",
+            "http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js?_v=6d69cc67635a58d43e811b1afac99cde",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.css?_v=dccb68c0daadaa1fd016c4aa2306646c",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.js?_v=022d477286c6e9afcc5ed26ef51137f4",
+            "http://assets.tumblr.com/client/prod/app/global.build.css?_v=55c27261bf4787d02623cb51040f928f",
+            "http://assets.tumblr.com/client/prod/app/global.build.js?_v=2e4827d7074e4ba612a70d47417b93ab",
+            "http://assets.tumblr.com/client/prod/app/header.build.js?_v=b5587e45bc38ebe8e19947fe2234b0fe",
+            "http://assets.tumblr.com/client/prod/app/vendor.build.js?_v=97825e4683c4c975b3cb238a099e44cf",
+            "http://assets.tumblr.com/languages/strings/en_US.js?1343",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvYXJjaGl2ZVwvMjAxMlwvMTEiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvYXJjaGl2ZVwvOnllYXJcLzptb250aCIsIm5vc2NyaXB0IjoxfQ==&U=IJDIFGMNPG&K=6f97aff43e5339662d822d771740b6c2a422cdeffc8756b6e9b43d8657f17660&R="
+        ],
+        "links": [
+            "",
+            "archive/2012/1",
+            "archive/2012/11",
+            "archive/2012/2",
+            "archive/2012/4",
+            "archive/2013/5",
+            "archive/2013/9",
+            "archive/2014/3",
+            "archive/2014/7",
+            "archive/2014/9",
+            "archive/2015/11",
+            "archive/2015/12",
+            "archive/2016/1"
+        ]
+    },
+    "archive/2012/2": {
+        "assets": [
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_40.png",
+            "http://assets.tumblr.com/assets/scripts/archive/archive.js?_v=3b002523fbc6392314dcc801a4f7b57f",
+            "http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js?_v=6d69cc67635a58d43e811b1afac99cde",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.css?_v=dccb68c0daadaa1fd016c4aa2306646c",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.js?_v=022d477286c6e9afcc5ed26ef51137f4",
+            "http://assets.tumblr.com/client/prod/app/global.build.css?_v=55c27261bf4787d02623cb51040f928f",
+            "http://assets.tumblr.com/client/prod/app/global.build.js?_v=2e4827d7074e4ba612a70d47417b93ab",
+            "http://assets.tumblr.com/client/prod/app/header.build.js?_v=b5587e45bc38ebe8e19947fe2234b0fe",
+            "http://assets.tumblr.com/client/prod/app/vendor.build.js?_v=97825e4683c4c975b3cb238a099e44cf",
+            "http://assets.tumblr.com/languages/strings/en_US.js?1343",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250507&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvYXJjaGl2ZVwvMjAxMlwvMiIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9hcmNoaXZlXC86eWVhclwvOm1vbnRoIiwibm9zY3JpcHQiOjF9&U=BLCAKJFMGN&K=60bab8c10eb4386609646f4a64ee45719f8b59b048fc868f5ea1061875be4215&R="
+        ],
+        "links": [
+            "",
+            "archive/2012/1",
+            "archive/2012/11",
+            "archive/2012/2",
+            "archive/2012/4",
+            "archive/2013/5",
+            "archive/2013/9",
+            "archive/2014/3",
+            "archive/2014/7",
+            "archive/2014/9",
+            "archive/2015/11",
+            "archive/2015/12",
+            "archive/2016/1"
+        ]
+    },
+    "archive/2012/4": {
+        "assets": [
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_40.png",
+            "http://assets.tumblr.com/assets/scripts/archive/archive.js?_v=3b002523fbc6392314dcc801a4f7b57f",
+            "http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js?_v=6d69cc67635a58d43e811b1afac99cde",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.css?_v=dccb68c0daadaa1fd016c4aa2306646c",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.js?_v=022d477286c6e9afcc5ed26ef51137f4",
+            "http://assets.tumblr.com/client/prod/app/global.build.css?_v=55c27261bf4787d02623cb51040f928f",
+            "http://assets.tumblr.com/client/prod/app/global.build.js?_v=2e4827d7074e4ba612a70d47417b93ab",
+            "http://assets.tumblr.com/client/prod/app/header.build.js?_v=b5587e45bc38ebe8e19947fe2234b0fe",
+            "http://assets.tumblr.com/client/prod/app/vendor.build.js?_v=97825e4683c4c975b3cb238a099e44cf",
+            "http://assets.tumblr.com/languages/strings/en_US.js?1343",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvYXJjaGl2ZVwvMjAxMlwvNCIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9hcmNoaXZlXC86eWVhclwvOm1vbnRoIiwibm9zY3JpcHQiOjF9&U=NBIDMPFNDO&K=96e01aba147996fbd25c7ebd517e8aa1d882e3462aa8d8595e52b16ddded5bda&R="
+        ],
+        "links": [
+            "",
+            "archive/2012/1",
+            "archive/2012/11",
+            "archive/2012/2",
+            "archive/2012/4",
+            "archive/2013/5",
+            "archive/2013/9",
+            "archive/2014/3",
+            "archive/2014/7",
+            "archive/2014/9",
+            "archive/2015/11",
+            "archive/2015/12",
+            "archive/2016/1"
+        ]
+    },
+    "archive/2013/5": {
+        "assets": [
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_40.png",
+            "http://assets.tumblr.com/assets/scripts/archive/archive.js?_v=3b002523fbc6392314dcc801a4f7b57f",
+            "http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js?_v=6d69cc67635a58d43e811b1afac99cde",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.css?_v=dccb68c0daadaa1fd016c4aa2306646c",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.js?_v=022d477286c6e9afcc5ed26ef51137f4",
+            "http://assets.tumblr.com/client/prod/app/global.build.css?_v=55c27261bf4787d02623cb51040f928f",
+            "http://assets.tumblr.com/client/prod/app/global.build.js?_v=2e4827d7074e4ba612a70d47417b93ab",
+            "http://assets.tumblr.com/client/prod/app/header.build.js?_v=b5587e45bc38ebe8e19947fe2234b0fe",
+            "http://assets.tumblr.com/client/prod/app/vendor.build.js?_v=97825e4683c4c975b3cb238a099e44cf",
+            "http://assets.tumblr.com/languages/strings/en_US.js?1343",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvYXJjaGl2ZVwvMjAxM1wvNSIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9hcmNoaXZlXC86eWVhclwvOm1vbnRoIiwibm9zY3JpcHQiOjF9&U=PJFIFGELFM&K=631f7734912a561ea086ebfbc323d7c927c681cc5ebc17159e0034768f31ae1a&R="
+        ],
+        "links": [
+            "",
+            "archive/2012/1",
+            "archive/2012/11",
+            "archive/2012/2",
+            "archive/2012/4",
+            "archive/2013/5",
+            "archive/2013/9",
+            "archive/2014/3",
+            "archive/2014/7",
+            "archive/2014/9",
+            "archive/2015/11",
+            "archive/2015/12",
+            "archive/2016/1"
+        ]
+    },
+    "archive/2013/9": {
+        "assets": [
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_40.png",
+            "http://68.media.tumblr.com/ddebec46b60f554989f09682fc3d8e71/tumblr_inline_mtj697fPI11r5tr1m.jpg",
+            "http://assets.tumblr.com/assets/scripts/archive/archive.js?_v=3b002523fbc6392314dcc801a4f7b57f",
+            "http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js?_v=6d69cc67635a58d43e811b1afac99cde",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.css?_v=dccb68c0daadaa1fd016c4aa2306646c",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.js?_v=022d477286c6e9afcc5ed26ef51137f4",
+            "http://assets.tumblr.com/client/prod/app/global.build.css?_v=55c27261bf4787d02623cb51040f928f",
+            "http://assets.tumblr.com/client/prod/app/global.build.js?_v=2e4827d7074e4ba612a70d47417b93ab",
+            "http://assets.tumblr.com/client/prod/app/header.build.js?_v=b5587e45bc38ebe8e19947fe2234b0fe",
+            "http://assets.tumblr.com/client/prod/app/vendor.build.js?_v=97825e4683c4c975b3cb238a099e44cf",
+            "http://assets.tumblr.com/languages/strings/en_US.js?1343",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvYXJjaGl2ZVwvMjAxM1wvOSIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9hcmNoaXZlXC86eWVhclwvOm1vbnRoIiwibm9zY3JpcHQiOjF9&U=JDAIDIOOIO&K=223b3f077e1a7d7caf82cb226c760bd6f1da6dadeeaabe1af430e3b3bf240b6a&R="
+        ],
+        "links": [
+            "",
+            "archive/2012/1",
+            "archive/2012/11",
+            "archive/2012/2",
+            "archive/2012/4",
+            "archive/2013/5",
+            "archive/2013/9",
+            "archive/2014/3",
+            "archive/2014/7",
+            "archive/2014/9",
+            "archive/2015/11",
+            "archive/2015/12",
+            "archive/2016/1"
+        ]
+    },
+    "archive/2014/3": {
+        "assets": [
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_40.png",
+            "http://assets.tumblr.com/assets/scripts/archive/archive.js?_v=3b002523fbc6392314dcc801a4f7b57f",
+            "http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js?_v=6d69cc67635a58d43e811b1afac99cde",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.css?_v=dccb68c0daadaa1fd016c4aa2306646c",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.js?_v=022d477286c6e9afcc5ed26ef51137f4",
+            "http://assets.tumblr.com/client/prod/app/global.build.css?_v=55c27261bf4787d02623cb51040f928f",
+            "http://assets.tumblr.com/client/prod/app/global.build.js?_v=2e4827d7074e4ba612a70d47417b93ab",
+            "http://assets.tumblr.com/client/prod/app/header.build.js?_v=b5587e45bc38ebe8e19947fe2234b0fe",
+            "http://assets.tumblr.com/client/prod/app/vendor.build.js?_v=97825e4683c4c975b3cb238a099e44cf",
+            "http://assets.tumblr.com/languages/strings/en_US.js?1343",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvYXJjaGl2ZVwvMjAxNFwvMyIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9hcmNoaXZlXC86eWVhclwvOm1vbnRoIiwibm9zY3JpcHQiOjF9&U=DEBIALKPAG&K=90660d08389197b04ed4713347e4da6aee8a17ab5cc1bacb24bd4240ae063ab8&R="
+        ],
+        "links": [
+            "",
+            "archive/2012/1",
+            "archive/2012/11",
+            "archive/2012/2",
+            "archive/2012/4",
+            "archive/2013/5",
+            "archive/2013/9",
+            "archive/2014/3",
+            "archive/2014/7",
+            "archive/2014/9",
+            "archive/2015/11",
+            "archive/2015/12",
+            "archive/2016/1"
+        ]
+    },
+    "archive/2014/7": {
+        "assets": [
+            "http://68.media.tumblr.com/76dea195e0390191ceeefba0effbdce9/tumblr_inline_n37sxtY37t1r5tr1m.png",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_40.png",
+            "http://68.media.tumblr.com/b85a6d5d56c36b155d13ac7d2684d98a/tumblr_inline_n37sy2AZA91r5tr1m.png",
+            "http://assets.tumblr.com/assets/scripts/archive/archive.js?_v=3b002523fbc6392314dcc801a4f7b57f",
+            "http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js?_v=6d69cc67635a58d43e811b1afac99cde",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.css?_v=dccb68c0daadaa1fd016c4aa2306646c",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.js?_v=022d477286c6e9afcc5ed26ef51137f4",
+            "http://assets.tumblr.com/client/prod/app/global.build.css?_v=55c27261bf4787d02623cb51040f928f",
+            "http://assets.tumblr.com/client/prod/app/global.build.js?_v=2e4827d7074e4ba612a70d47417b93ab",
+            "http://assets.tumblr.com/client/prod/app/header.build.js?_v=b5587e45bc38ebe8e19947fe2234b0fe",
+            "http://assets.tumblr.com/client/prod/app/vendor.build.js?_v=97825e4683c4c975b3cb238a099e44cf",
+            "http://assets.tumblr.com/languages/strings/en_US.js?1343",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250507&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvYXJjaGl2ZVwvMjAxNFwvNyIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9hcmNoaXZlXC86eWVhclwvOm1vbnRoIiwibm9zY3JpcHQiOjF9&U=KBOFCDHMIO&K=2dbee90914c1aaa67e4ccaa320253eb18a5bcc0ad7f70df8491ef186d9157ac4&R="
+        ],
+        "links": [
+            "",
+            "archive/2012/1",
+            "archive/2012/11",
+            "archive/2012/2",
+            "archive/2012/4",
+            "archive/2013/5",
+            "archive/2013/9",
+            "archive/2014/3",
+            "archive/2014/7",
+            "archive/2014/9",
+            "archive/2015/11",
+            "archive/2015/12",
+            "archive/2016/1"
+        ]
+    },
+    "archive/2014/9": {
+        "assets": [
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_40.png",
+            "http://assets.tumblr.com/assets/scripts/archive/archive.js?_v=3b002523fbc6392314dcc801a4f7b57f",
+            "http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js?_v=6d69cc67635a58d43e811b1afac99cde",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.css?_v=dccb68c0daadaa1fd016c4aa2306646c",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.js?_v=022d477286c6e9afcc5ed26ef51137f4",
+            "http://assets.tumblr.com/client/prod/app/global.build.css?_v=55c27261bf4787d02623cb51040f928f",
+            "http://assets.tumblr.com/client/prod/app/global.build.js?_v=2e4827d7074e4ba612a70d47417b93ab",
+            "http://assets.tumblr.com/client/prod/app/header.build.js?_v=b5587e45bc38ebe8e19947fe2234b0fe",
+            "http://assets.tumblr.com/client/prod/app/vendor.build.js?_v=97825e4683c4c975b3cb238a099e44cf",
+            "http://assets.tumblr.com/languages/strings/en_US.js?1343",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvYXJjaGl2ZVwvMjAxNFwvOSIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9hcmNoaXZlXC86eWVhclwvOm1vbnRoIiwibm9zY3JpcHQiOjF9&U=LBFJPKFLKI&K=7ef4d5360d0897d917fecddd84b0a450647b8c39954e1441c27ce06b25aa325f&R="
+        ],
+        "links": [
+            "",
+            "archive/2012/1",
+            "archive/2012/11",
+            "archive/2012/2",
+            "archive/2012/4",
+            "archive/2013/5",
+            "archive/2013/9",
+            "archive/2014/3",
+            "archive/2014/7",
+            "archive/2014/9",
+            "archive/2015/11",
+            "archive/2015/12",
+            "archive/2016/1"
+        ]
+    },
+    "archive/2015/11": {
+        "assets": [
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_40.png",
+            "http://assets.tumblr.com/assets/scripts/archive/archive.js?_v=3b002523fbc6392314dcc801a4f7b57f",
+            "http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js?_v=6d69cc67635a58d43e811b1afac99cde",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.css?_v=dccb68c0daadaa1fd016c4aa2306646c",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.js?_v=022d477286c6e9afcc5ed26ef51137f4",
+            "http://assets.tumblr.com/client/prod/app/global.build.css?_v=55c27261bf4787d02623cb51040f928f",
+            "http://assets.tumblr.com/client/prod/app/global.build.js?_v=2e4827d7074e4ba612a70d47417b93ab",
+            "http://assets.tumblr.com/client/prod/app/header.build.js?_v=b5587e45bc38ebe8e19947fe2234b0fe",
+            "http://assets.tumblr.com/client/prod/app/vendor.build.js?_v=97825e4683c4c975b3cb238a099e44cf",
+            "http://assets.tumblr.com/languages/strings/en_US.js?1343",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250507&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvYXJjaGl2ZVwvMjAxNVwvMTEiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvYXJjaGl2ZVwvOnllYXJcLzptb250aCIsIm5vc2NyaXB0IjoxfQ==&U=APELJDFMPB&K=49f8e92bbca528383541898f1fddb69e01f1f507170fe7fdd8af67f4e6ed4df0&R="
+        ],
+        "links": [
+            "",
+            "archive/2012/1",
+            "archive/2012/11",
+            "archive/2012/2",
+            "archive/2012/4",
+            "archive/2013/5",
+            "archive/2013/9",
+            "archive/2014/3",
+            "archive/2014/7",
+            "archive/2014/9",
+            "archive/2015/11",
+            "archive/2015/12",
+            "archive/2016/1"
+        ]
+    },
+    "archive/2015/12": {
+        "assets": [
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_40.png",
+            "http://assets.tumblr.com/assets/scripts/archive/archive.js?_v=3b002523fbc6392314dcc801a4f7b57f",
+            "http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js?_v=6d69cc67635a58d43e811b1afac99cde",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.css?_v=dccb68c0daadaa1fd016c4aa2306646c",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.js?_v=022d477286c6e9afcc5ed26ef51137f4",
+            "http://assets.tumblr.com/client/prod/app/global.build.css?_v=55c27261bf4787d02623cb51040f928f",
+            "http://assets.tumblr.com/client/prod/app/global.build.js?_v=2e4827d7074e4ba612a70d47417b93ab",
+            "http://assets.tumblr.com/client/prod/app/header.build.js?_v=b5587e45bc38ebe8e19947fe2234b0fe",
+            "http://assets.tumblr.com/client/prod/app/vendor.build.js?_v=97825e4683c4c975b3cb238a099e44cf",
+            "http://assets.tumblr.com/languages/strings/en_US.js?1343",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvYXJjaGl2ZVwvMjAxNVwvMTIiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvYXJjaGl2ZVwvOnllYXJcLzptb250aCIsIm5vc2NyaXB0IjoxfQ==&U=HJMLJNNEBI&K=48e4f0a604f491e9c03b0bc959c30c6fc0f8eeb75ff27337308b41887401457a&R="
+        ],
+        "links": [
+            "",
+            "archive/2012/1",
+            "archive/2012/11",
+            "archive/2012/2",
+            "archive/2012/4",
+            "archive/2013/5",
+            "archive/2013/9",
+            "archive/2014/3",
+            "archive/2014/7",
+            "archive/2014/9",
+            "archive/2015/11",
+            "archive/2015/12",
+            "archive/2016/1"
+        ]
+    },
+    "archive/2016/1": {
+        "assets": [
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_40.png",
+            "http://assets.tumblr.com/assets/scripts/archive/archive.js?_v=3b002523fbc6392314dcc801a4f7b57f",
+            "http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js?_v=6d69cc67635a58d43e811b1afac99cde",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.css?_v=dccb68c0daadaa1fd016c4aa2306646c",
+            "http://assets.tumblr.com/client/prod/app/context/archive/index.build.js?_v=022d477286c6e9afcc5ed26ef51137f4",
+            "http://assets.tumblr.com/client/prod/app/global.build.css?_v=55c27261bf4787d02623cb51040f928f",
+            "http://assets.tumblr.com/client/prod/app/global.build.js?_v=2e4827d7074e4ba612a70d47417b93ab",
+            "http://assets.tumblr.com/client/prod/app/header.build.js?_v=b5587e45bc38ebe8e19947fe2234b0fe",
+            "http://assets.tumblr.com/client/prod/app/vendor.build.js?_v=97825e4683c4c975b3cb238a099e44cf",
+            "http://assets.tumblr.com/languages/strings/en_US.js?1343",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvYXJjaGl2ZVwvMjAxNlwvMSIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9hcmNoaXZlXC86eWVhclwvOm1vbnRoIiwibm9zY3JpcHQiOjF9&U=HFMGLKFOKC&K=259ba07b06f18e5604e7a5a30ee979d1490d788af237e34625af8dff92173ac8&R="
+        ],
+        "links": [
+            "",
+            "archive/2012/1",
+            "archive/2012/11",
+            "archive/2012/2",
+            "archive/2012/4",
+            "archive/2013/5",
+            "archive/2013/9",
+            "archive/2014/3",
+            "archive/2014/7",
+            "archive/2014/9",
+            "archive/2015/11",
+            "archive/2015/12",
+            "archive/2016/1"
+        ]
+    },
+    "day/2012/01/07": {
+        "assets": [
+            "android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=tomblomfield",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65",
+            "http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af",
+            "http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=29c83e8408db12f26266e69a91022931",
+            "http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css",
+            "http://requirejs.org/docs/release/1.0.3/minified/require.js",
+            "http://tomblomfield.com",
+            "http://tomblomfield.com/rss",
+            "http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586?s=128&d=identicon&r=PG",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3RvbWJsb21maWVsZC5jb21cL2RheVwvMjAxMlwvMDFcLzA3IiwicmVxdHlwZSI6MCwicm91dGUiOiJcL2RheVwvOnl5eXlcLzptbVwvOmRkIiwicG9zdHMiOlt7InBvc3RpZCI6IjE1NDUwNzA1MzM2IiwiYmxvZ2lkIjoiMzk5MjE0NTQiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE1NDUxNTgwNzE0IiwiYmxvZ2lkIjoiMzk5MjE0NTQiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE1NDU2MTg0ODI3IiwiYmxvZ2lkIjoiMzk5MjE0NTQiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE1NDU5MTI0NDA3IiwiYmxvZ2lkIjoiMzk5MjE0NTQiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=GEPKNKOGOB&K=56af6a1795252b6a2369493525baacc56d03d66f180748f1a57b1a05a01c4560&R=",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvZGF5XC8yMDEyXC8wMVwvMDciLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvZGF5XC86eXl5eVwvOm1tXC86ZGQiLCJub3NjcmlwdCI6MX0=&U=FBCJBKFCGJ&K=870dd481540d395158563ebe3b71b7d61122051de6f3473f2b01eb764e3af15f&R=",
+            "ios-app://305343404/tumblr/x-callback-url/blog?blogName=tomblomfield"
+        ],
+        "links": [
+            "",
+            "about",
+            "archive",
+            "day/2012/01/07",
+            "day/2012/02/05",
+            "random"
+        ]
+    },
+    "day/2012/02/05": {
+        "assets": [
+            "android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=tomblomfield",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65",
+            "http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af",
+            "http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=29c83e8408db12f26266e69a91022931",
+            "http://cl.ly/2y101u391I2a0X0b3A1N/Screen%20shot%202012-02-05%20at%2014.13.07.png",
+            "http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css",
+            "http://requirejs.org/docs/release/1.0.3/minified/require.js",
+            "http://tomblomfield.com",
+            "http://tomblomfield.com/rss",
+            "http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586?s=128&d=identicon&r=PG",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3RvbWJsb21maWVsZC5jb21cL2RheVwvMjAxMlwvMDJcLzA1IiwicmVxdHlwZSI6MCwicm91dGUiOiJcL2RheVwvOnl5eXlcLzptbVwvOmRkIiwicG9zdHMiOlt7InBvc3RpZCI6IjE3MDkyNTAyNzA1IiwiYmxvZ2lkIjoiMzk5MjE0NTQiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=DMPGIEEIKJ&K=ae449d5b1250d00c19bc545a3f467480a25a070b74f98d283b3b87fe9d9aac3e&R=",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvZGF5XC8yMDEyXC8wMlwvMDUiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvZGF5XC86eXl5eVwvOm1tXC86ZGQiLCJub3NjcmlwdCI6MX0=&U=OLICFIDDFN&K=3923b1ab345d07792f5450249634c45f9a0e40162f91c57c45f1f0075e44f6b0&R=",
+            "ios-app://305343404/tumblr/x-callback-url/blog?blogName=tomblomfield"
+        ],
+        "links": [
+            "",
+            "about",
+            "archive",
+            "day/2012/01/07",
+            "day/2012/02/05",
+            "day/2012/02/13",
+            "random"
+        ]
+    },
+    "day/2012/02/13": {
+        "assets": [
+            "android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=tomblomfield",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65",
+            "http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af",
+            "http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=29c83e8408db12f26266e69a91022931",
+            "http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css",
+            "http://requirejs.org/docs/release/1.0.3/minified/require.js",
+            "http://tomblomfield.com",
+            "http://tomblomfield.com/rss",
+            "http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586?s=128&d=identicon&r=PG",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3RvbWJsb21maWVsZC5jb21cL2RheVwvMjAxMlwvMDJcLzEzIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL2RheVwvOnl5eXlcLzptbVwvOmRkIiwicG9zdHMiOlt7InBvc3RpZCI6IjE2Njk3NDk4MDA1IiwiYmxvZ2lkIjoiMzk5MjE0NTQiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE3NTcxNDQ5MjMzIiwiYmxvZ2lkIjoiMzk5MjE0NTQiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=CLKJGKKNNA&K=9085dbd7c4a51e61bdc551c38672b1878c4bb67059de09a51ac9c82786324cb3&R=",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvZGF5XC8yMDEyXC8wMlwvMTMiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvZGF5XC86eXl5eVwvOm1tXC86ZGQiLCJub3NjcmlwdCI6MX0=&U=DEOABOHGND&K=e8b1661a7b332885d9ff0e4e17333a71cdd54119b0b157ee1ad930cdced8a937&R=",
+            "ios-app://305343404/tumblr/x-callback-url/blog?blogName=tomblomfield"
+        ],
+        "links": [
+            "",
+            "about",
+            "archive",
+            "day/2012/02/05",
+            "day/2012/02/13",
+            "day/2012/04/01",
+            "random"
+        ]
+    },
+    "day/2012/04/01": {
+        "assets": [
+            "android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=tomblomfield",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65",
+            "http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af",
+            "http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=29c83e8408db12f26266e69a91022931",
+            "http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css",
+            "http://requirejs.org/docs/release/1.0.3/minified/require.js",
+            "http://tomblomfield.com",
+            "http://tomblomfield.com/rss",
+            "http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586?s=128&d=identicon&r=PG",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3RvbWJsb21maWVsZC5jb21cL2RheVwvMjAxMlwvMDRcLzAxIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL2RheVwvOnl5eXlcLzptbVwvOmRkIiwicG9zdHMiOlt7InBvc3RpZCI6IjIwMjg1ODU0MDcxIiwiYmxvZ2lkIjoiMzk5MjE0NTQiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=EMDIPDOGLE&K=4366fecfe92137d871f40d3c939204b68ef36043beafbc61b1ae5dcaa72092b0&R=",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvZGF5XC8yMDEyXC8wNFwvMDEiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvZGF5XC86eXl5eVwvOm1tXC86ZGQiLCJub3NjcmlwdCI6MX0=&U=DJDNMDLNED&K=d3e6559d9155ae16993b6f1a16ff15dd1362cd0f9810cffa17a1aa55e81d3074&R=",
+            "ios-app://305343404/tumblr/x-callback-url/blog?blogName=tomblomfield"
+        ],
+        "links": [
+            "",
+            "about",
+            "archive",
+            "day/2012/02/13",
+            "day/2012/04/01",
+            "day/2012/04/20",
+            "random"
+        ]
+    },
+    "day/2012/04/20": {
+        "assets": [
+            "android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=tomblomfield",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65",
+            "http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af",
+            "http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=29c83e8408db12f26266e69a91022931",
+            "http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css",
+            "http://requirejs.org/docs/release/1.0.3/minified/require.js",
+            "http://tomblomfield.com",
+            "http://tomblomfield.com/rss",
+            "http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586?s=128&d=identicon&r=PG",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3RvbWJsb21maWVsZC5jb21cL2RheVwvMjAxMlwvMDRcLzIwIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL2RheVwvOnl5eXlcLzptbVwvOmRkIiwicG9zdHMiOlt7InJvb3RfYmxvZ2lkIjoiMzMxODYxODAiLCJyb290X3Bvc3RpZCI6MjE0Mzc4Mjk3NjgsInBvc3RpZCI6IjIxNDQwNjA0NDAzIiwiYmxvZ2lkIjoiMzk5MjE0NTQiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=NNLDFHNHKH&K=9848ec1a4fe9f95a0d9f724c5fd2a869b91cb081534957cf00c103aa8b132f08&R=",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvZGF5XC8yMDEyXC8wNFwvMjAiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvZGF5XC86eXl5eVwvOm1tXC86ZGQiLCJub3NjcmlwdCI6MX0=&U=IFKEFKJHDE&K=32fce3531bed7b36fed20565a8dbad991c05642bf58f8871791fe6cd4242ecd4&R=",
+            "ios-app://305343404/tumblr/x-callback-url/blog?blogName=tomblomfield"
+        ],
+        "links": [
+            "",
+            "about",
+            "archive",
+            "day/2012/04/01",
+            "day/2012/04/20",
+            "day/2012/11/08",
+            "random"
+        ]
+    },
+    "day/2012/11/08": {
+        "assets": [
+            "android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=tomblomfield",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65",
+            "http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af",
+            "http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=29c83e8408db12f26266e69a91022931",
+            "http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css",
+            "http://requirejs.org/docs/release/1.0.3/minified/require.js",
+            "http://tomblomfield.com",
+            "http://tomblomfield.com/rss",
+            "http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586?s=128&d=identicon&r=PG",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3RvbWJsb21maWVsZC5jb21cL2RheVwvMjAxMlwvMTFcLzA4IiwicmVxdHlwZSI6MCwicm91dGUiOiJcL2RheVwvOnl5eXlcLzptbVwvOmRkIiwicG9zdHMiOlt7InBvc3RpZCI6IjMzNTA2ODc4NTc4IiwiYmxvZ2lkIjoiMzk5MjE0NTQiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=POIGNJBMNG&K=ea0ab870b1df8fe3b8c886829e84b4039fdb289ef82b5e09ea6b0ccc1e3f9652&R=",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvZGF5XC8yMDEyXC8xMVwvMDgiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvZGF5XC86eXl5eVwvOm1tXC86ZGQiLCJub3NjcmlwdCI6MX0=&U=PJLIHAKDMI&K=89924292b6b177596fc94d0a9d4406dd9166875660bf730685e122649be9771b&R=",
+            "ios-app://305343404/tumblr/x-callback-url/blog?blogName=tomblomfield"
+        ],
+        "links": [
+            "",
+            "about",
+            "archive",
+            "day/2012/04/20",
+            "day/2012/11/08",
+            "day/2013/05/28",
+            "random"
+        ]
+    },
+    "day/2013/05/28": {
+        "assets": [
+            "android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=tomblomfield",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65",
+            "http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af",
+            "http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=29c83e8408db12f26266e69a91022931",
+            "http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css",
+            "http://requirejs.org/docs/release/1.0.3/minified/require.js",
+            "http://tomblomfield.com",
+            "http://tomblomfield.com/rss",
+            "http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586?s=128&d=identicon&r=PG",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3RvbWJsb21maWVsZC5jb21cL2RheVwvMjAxM1wvMDVcLzI4IiwicmVxdHlwZSI6MCwicm91dGUiOiJcL2RheVwvOnl5eXlcLzptbVwvOmRkIiwicG9zdHMiOlt7InBvc3RpZCI6IjUxNTQ3NTkwMjk0IiwiYmxvZ2lkIjoiMzk5MjE0NTQiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=MNHPOMMPNA&K=3fdd59329d9952e24d7c57a936a32e1444c6a1be2005d93e5df14b154de91adb&R=",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvZGF5XC8yMDEzXC8wNVwvMjgiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvZGF5XC86eXl5eVwvOm1tXC86ZGQiLCJub3NjcmlwdCI6MX0=&U=MFLHPCKOOG&K=700141006f076b60545bafa933dad5b007595acbf5023ba12958cd439816917d&R=",
+            "ios-app://305343404/tumblr/x-callback-url/blog?blogName=tomblomfield"
+        ],
+        "links": [
+            "",
+            "about",
+            "archive",
+            "day/2012/11/08",
+            "day/2013/05/28",
+            "day/2013/09/20",
+            "random"
+        ]
+    },
+    "day/2013/09/20": {
+        "assets": [
+            "android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=tomblomfield",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65",
+            "http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af",
+            "http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=29c83e8408db12f26266e69a91022931",
+            "http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css",
+            "http://requirejs.org/docs/release/1.0.3/minified/require.js",
+            "http://tomblomfield.com",
+            "http://tomblomfield.com/rss",
+            "http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586?s=128&d=identicon&r=PG",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3RvbWJsb21maWVsZC5jb21cL2RheVwvMjAxM1wvMDlcLzIwIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL2RheVwvOnl5eXlcLzptbVwvOmRkIiwicG9zdHMiOlt7InBvc3RpZCI6IjYxNzYwNTUyMzk4IiwiYmxvZ2lkIjoiMzk5MjE0NTQiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=HKMDHHCFIB&K=cc957c941ae1f17e78be901e7aae8cd14da4aea29c9b5be98b6d052f979c731a&R=",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvZGF5XC8yMDEzXC8wOVwvMjAiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvZGF5XC86eXl5eVwvOm1tXC86ZGQiLCJub3NjcmlwdCI6MX0=&U=GHJNFMMMDG&K=54c6c4299e69674c37a7531db35375c5aaa8b7fb3903029b88211de2d62b2da7&R=",
+            "ios-app://305343404/tumblr/x-callback-url/blog?blogName=tomblomfield"
+        ],
+        "links": [
+            "",
+            "about",
+            "archive",
+            "day/2013/05/28",
+            "day/2013/09/20",
+            "day/2013/09/22",
+            "random"
+        ]
+    },
+    "day/2013/09/22": {
+        "assets": [
+            "android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=tomblomfield",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://68.media.tumblr.com/ddebec46b60f554989f09682fc3d8e71/tumblr_inline_mtj697fPI11r5tr1m.jpg",
+            "http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65",
+            "http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af",
+            "http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=29c83e8408db12f26266e69a91022931",
+            "http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css",
+            "http://requirejs.org/docs/release/1.0.3/minified/require.js",
+            "http://tomblomfield.com",
+            "http://tomblomfield.com/rss",
+            "http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586?s=128&d=identicon&r=PG",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3RvbWJsb21maWVsZC5jb21cL2RheVwvMjAxM1wvMDlcLzIyIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL2RheVwvOnl5eXlcLzptbVwvOmRkIiwicG9zdHMiOlt7InBvc3RpZCI6IjYxOTU4NjI5MTU2IiwiYmxvZ2lkIjoiMzk5MjE0NTQiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=DOBNDCCBEK&K=7287c1b125d630ea5a1a2cb1a8286e0bef2444d5afb8240867059e6139163f4d&R=",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvZGF5XC8yMDEzXC8wOVwvMjIiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvZGF5XC86eXl5eVwvOm1tXC86ZGQiLCJub3NjcmlwdCI6MX0=&U=AMOBDANIFG&K=ea7c383371b574f8709e7be7060d60baacae64eaca3a67c6f47b45f81f6e3fb0&R=",
+            "ios-app://305343404/tumblr/x-callback-url/blog?blogName=tomblomfield"
+        ],
+        "links": [
+            "",
+            "about",
+            "archive",
+            "day/2013/09/20",
+            "day/2013/09/22",
+            "day/2013/09/26",
+            "random"
+        ]
+    },
+    "day/2013/09/26": {
+        "assets": [
+            "android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=tomblomfield",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65",
+            "http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af",
+            "http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=29c83e8408db12f26266e69a91022931",
+            "http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css",
+            "http://requirejs.org/docs/release/1.0.3/minified/require.js",
+            "http://tomblomfield.com",
+            "http://tomblomfield.com/rss",
+            "http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586?s=128&d=identicon&r=PG",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3RvbWJsb21maWVsZC5jb21cL2RheVwvMjAxM1wvMDlcLzI2IiwicmVxdHlwZSI6MCwicm91dGUiOiJcL2RheVwvOnl5eXlcLzptbVwvOmRkIiwicG9zdHMiOlt7InBvc3RpZCI6IjYyMzQyOTQ5Mjk0IiwiYmxvZ2lkIjoiMzk5MjE0NTQiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=JPNJEFFPDF&K=9b9c3153f36a8e84c5a6eccdb4cae9183440eb87afe23085539d55d7c60289c5&R=",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvZGF5XC8yMDEzXC8wOVwvMjYiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvZGF5XC86eXl5eVwvOm1tXC86ZGQiLCJub3NjcmlwdCI6MX0=&U=DBONNFNKAD&K=52cddb6b4632691108633448e0e2dbf9d807009f93cbd0f83b4fa31a26a02f33&R=",
+            "ios-app://305343404/tumblr/x-callback-url/blog?blogName=tomblomfield"
+        ],
+        "links": [
+            "",
+            "about",
+            "archive",
+            "day/2013/09/22",
+            "day/2013/09/26",
+            "day/2013/09/29",
+            "random"
+        ]
+    },
+    "day/2013/09/29": {
+        "assets": [
+            "android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=tomblomfield",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65",
+            "http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af",
+            "http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=29c83e8408db12f26266e69a91022931",
+            "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/6000/300/6379/6379.strip.sunday.gif",
+            "http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css",
+            "http://requirejs.org/docs/release/1.0.3/minified/require.js",
+            "http://tomblomfield.com",
+            "http://tomblomfield.com/rss",
+            "http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586?s=128&d=identicon&r=PG",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3RvbWJsb21maWVsZC5jb21cL2RheVwvMjAxM1wvMDlcLzI5IiwicmVxdHlwZSI6MCwicm91dGUiOiJcL2RheVwvOnl5eXlcLzptbVwvOmRkIiwicG9zdHMiOlt7InBvc3RpZCI6IjYyNjE5MjgyNzk3IiwiYmxvZ2lkIjoiMzk5MjE0NTQiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=BCGCKFJDEO&K=99451d2b75b5ba77d0fd4de4e30273edee26fc1531cba1451a9249d966be4e5b&R=",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvZGF5XC8yMDEzXC8wOVwvMjkiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvZGF5XC86eXl5eVwvOm1tXC86ZGQiLCJub3NjcmlwdCI6MX0=&U=AMFCFNCMML&K=9b734d28c0fd6b4c324020f59584bf4961221b73255b45d10a7f2ca8428c2028&R=",
+            "ios-app://305343404/tumblr/x-callback-url/blog?blogName=tomblomfield"
+        ],
+        "links": [
+            "",
+            "about",
+            "archive",
+            "day/2013/09/26",
+            "day/2013/09/29",
+            "day/2014/03/29",
+            "random"
+        ]
+    },
+    "day/2014/03/29": {
+        "assets": [
+            "android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=tomblomfield",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65",
+            "http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af",
+            "http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=29c83e8408db12f26266e69a91022931",
+            "http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css",
+            "http://requirejs.org/docs/release/1.0.3/minified/require.js",
+            "http://tomblomfield.com",
+            "http://tomblomfield.com/rss",
+            "http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586?s=128&d=identicon&r=PG",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3RvbWJsb21maWVsZC5jb21cL2RheVwvMjAxNFwvMDNcLzI5IiwicmVxdHlwZSI6MCwicm91dGUiOiJcL2RheVwvOnl5eXlcLzptbVwvOmRkIiwicG9zdHMiOlt7InBvc3RpZCI6IjgxMTExOTM4NTYzIiwiYmxvZ2lkIjoiMzk5MjE0NTQiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=GEPIEKFJPC&K=ca5c0972a263eaca6feb71b1dc90b4a5d0fb7c7d76470c3a07753edebfac55b2&R=",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvZGF5XC8yMDE0XC8wM1wvMjkiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvZGF5XC86eXl5eVwvOm1tXC86ZGQiLCJub3NjcmlwdCI6MX0=&U=NLOAOJGLEH&K=65c4757607f9258de0b87e624ddd0575c487373c5285e2b38eea73aa35bad88b&R=",
+            "ios-app://305343404/tumblr/x-callback-url/blog?blogName=tomblomfield"
+        ],
+        "links": [
+            "",
+            "about",
+            "archive",
+            "day/2013/09/29",
+            "day/2014/03/29",
+            "day/2014/07/10",
+            "random"
+        ]
+    },
+    "day/2014/07/10": {
+        "assets": [
+            "android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=tomblomfield",
+            "http://68.media.tumblr.com/76dea195e0390191ceeefba0effbdce9/tumblr_inline_n37sxtY37t1r5tr1m.png",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://68.media.tumblr.com/b85a6d5d56c36b155d13ac7d2684d98a/tumblr_inline_n37sy2AZA91r5tr1m.png",
+            "http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65",
+            "http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af",
+            "http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=29c83e8408db12f26266e69a91022931",
+            "http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css",
+            "http://requirejs.org/docs/release/1.0.3/minified/require.js",
+            "http://tomblomfield.com",
+            "http://tomblomfield.com/rss",
+            "http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586?s=128&d=identicon&r=PG",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3RvbWJsb21maWVsZC5jb21cL2RheVwvMjAxNFwvMDdcLzEwIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL2RheVwvOnl5eXlcLzptbVwvOmRkIiwicG9zdHMiOlt7InBvc3RpZCI6IjgxMTA1MTQzMjIzIiwiYmxvZ2lkIjoiMzk5MjE0NTQiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=DOMDIGPNFA&K=40566315b677512611b59574c3ca55f919b8b789fa323389a8cd71725eda1ced&R=",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvZGF5XC8yMDE0XC8wN1wvMTAiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvZGF5XC86eXl5eVwvOm1tXC86ZGQiLCJub3NjcmlwdCI6MX0=&U=FDMCMCIJBP&K=cd4e86a2edb349e4a808a07eaa2458e55d128f1a105c890f158dd551e7676e2b&R=",
+            "ios-app://305343404/tumblr/x-callback-url/blog?blogName=tomblomfield"
+        ],
+        "links": [
+            "",
+            "about",
+            "archive",
+            "day/2014/03/29",
+            "day/2014/07/10",
+            "day/2014/09/12",
+            "random"
+        ]
+    },
+    "day/2014/09/12": {
+        "assets": [
+            "android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=tomblomfield",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65",
+            "http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af",
+            "http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=29c83e8408db12f26266e69a91022931",
+            "http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css",
+            "http://requirejs.org/docs/release/1.0.3/minified/require.js",
+            "http://tomblomfield.com",
+            "http://tomblomfield.com/rss",
+            "http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586?s=128&d=identicon&r=PG",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250505&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3RvbWJsb21maWVsZC5jb21cL2RheVwvMjAxNFwvMDlcLzEyIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL2RheVwvOnl5eXlcLzptbVwvOmRkIiwicG9zdHMiOlt7InBvc3RpZCI6Ijk3MzA0NDEwNTAwIiwiYmxvZ2lkIjoiMzk5MjE0NTQiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=JKJJIDJAEJ&K=e920f198959f73400c81a66373143733270be3d5c414b5a1b8f2bdca51b6c868&R=",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250505&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvZGF5XC8yMDE0XC8wOVwvMTIiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvZGF5XC86eXl5eVwvOm1tXC86ZGQiLCJub3NjcmlwdCI6MX0=&U=HPLCABFJHN&K=5121202034a6c38633261e27090c7ec5daa612183ec1fb4983b1534b9d62bf1a&R=",
+            "ios-app://305343404/tumblr/x-callback-url/blog?blogName=tomblomfield"
+        ],
+        "links": [
+            "",
+            "about",
+            "archive",
+            "day/2014/07/10",
+            "day/2014/09/12",
+            "day/2015/11/08",
+            "random"
+        ]
+    },
+    "day/2015/11/08": {
+        "assets": [
+            "android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=tomblomfield",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65",
+            "http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af",
+            "http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=29c83e8408db12f26266e69a91022931",
+            "http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css",
+            "http://requirejs.org/docs/release/1.0.3/minified/require.js",
+            "http://tomblomfield.com",
+            "http://tomblomfield.com/rss",
+            "http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586?s=128&d=identicon&r=PG",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3RvbWJsb21maWVsZC5jb21cL2RheVwvMjAxNVwvMTFcLzA4IiwicmVxdHlwZSI6MCwicm91dGUiOiJcL2RheVwvOnl5eXlcLzptbVwvOmRkIiwicG9zdHMiOlt7InBvc3RpZCI6IjEzMjgxMDM5MDE1NSIsImJsb2dpZCI6IjM5OTIxNDU0Iiwic291cmNlIjozM31dLCJub3NjcmlwdCI6MX0=&U=MMMCLHPOCL&K=3740fbee54c1bcd10dc1dd78fdca3d1989ad158cbfee46776863cc608917362b&R=",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvZGF5XC8yMDE1XC8xMVwvMDgiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvZGF5XC86eXl5eVwvOm1tXC86ZGQiLCJub3NjcmlwdCI6MX0=&U=DAOLOKMIJJ&K=373c61dbc26018bd1e3810d3cd8e8b1f150f6c9c3b1561f2d4742f5e4fb4293c&R=",
+            "ios-app://305343404/tumblr/x-callback-url/blog?blogName=tomblomfield"
+        ],
+        "links": [
+            "",
+            "about",
+            "archive",
+            "day/2014/09/12",
+            "day/2015/11/08",
+            "day/2015/12/13",
+            "random"
+        ]
+    },
+    "day/2015/12/13": {
+        "assets": [
+            "android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=tomblomfield",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65",
+            "http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af",
+            "http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=29c83e8408db12f26266e69a91022931",
+            "http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css",
+            "http://requirejs.org/docs/release/1.0.3/minified/require.js",
+            "http://tomblomfield.com",
+            "http://tomblomfield.com/rss",
+            "http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586?s=128&d=identicon&r=PG",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3RvbWJsb21maWVsZC5jb21cL2RheVwvMjAxNVwvMTJcLzEzIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL2RheVwvOnl5eXlcLzptbVwvOmRkIiwicG9zdHMiOlt7InBvc3RpZCI6IjEzNTEyMDYwMDM2MCIsImJsb2dpZCI6IjM5OTIxNDU0Iiwic291cmNlIjozM31dLCJub3NjcmlwdCI6MX0=&U=ABDJGFAHLF&K=9878333eeca92fcee9ceaafa74828bd020b7a7059d22674369ae2e153a4dc4ed&R=",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvZGF5XC8yMDE1XC8xMlwvMTMiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvZGF5XC86eXl5eVwvOm1tXC86ZGQiLCJub3NjcmlwdCI6MX0=&U=BPHFFPCIHC&K=50027e9fe2ce10d81c5869759828653387f90e4c0dc586b6090851b466e512b5&R=",
+            "ios-app://305343404/tumblr/x-callback-url/blog?blogName=tomblomfield"
+        ],
+        "links": [
+            "",
+            "about",
+            "archive",
+            "day/2015/11/08",
+            "day/2015/12/13",
+            "day/2016/01/14",
+            "random"
+        ]
+    },
+    "day/2016/01/14": {
+        "assets": [
+            "android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=tomblomfield",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65",
+            "http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af",
+            "http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=29c83e8408db12f26266e69a91022931",
+            "http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css",
+            "http://requirejs.org/docs/release/1.0.3/minified/require.js",
+            "http://tomblomfield.com",
+            "http://tomblomfield.com/rss",
+            "http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586?s=128&d=identicon&r=PG",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3RvbWJsb21maWVsZC5jb21cL2RheVwvMjAxNlwvMDFcLzE0IiwicmVxdHlwZSI6MCwicm91dGUiOiJcL2RheVwvOnl5eXlcLzptbVwvOmRkIiwicG9zdHMiOlt7InBvc3RpZCI6IjEzNjc1OTQ0MTg3MCIsImJsb2dpZCI6IjM5OTIxNDU0Iiwic291cmNlIjozM31dLCJub3NjcmlwdCI6MX0=&U=JDBOIJFNEN&K=c98910cd614925e3e8ed2df6194150de43ac2efe3532e84639c10029abd8fe35&R=",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvZGF5XC8yMDE2XC8wMVwvMTQiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvZGF5XC86eXl5eVwvOm1tXC86ZGQiLCJub3NjcmlwdCI6MX0=&U=CMJAPMIHNA&K=b4843a1210d665313792bf9c5a239a1e6ef908963c5413a543629e26ce4030b2&R=",
+            "ios-app://305343404/tumblr/x-callback-url/blog?blogName=tomblomfield"
+        ],
+        "links": [
+            "",
+            "about",
+            "archive",
+            "day/2015/12/13",
+            "day/2016/01/14",
+            "random"
+        ]
+    },
+    "page/1": {
+        "assets": [
+            "android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=tomblomfield",
+            "http://68.media.tumblr.com/76dea195e0390191ceeefba0effbdce9/tumblr_inline_n37sxtY37t1r5tr1m.png",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://68.media.tumblr.com/b85a6d5d56c36b155d13ac7d2684d98a/tumblr_inline_n37sy2AZA91r5tr1m.png",
+            "http://68.media.tumblr.com/ddebec46b60f554989f09682fc3d8e71/tumblr_inline_mtj697fPI11r5tr1m.jpg",
+            "http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65",
+            "http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af",
+            "http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=29c83e8408db12f26266e69a91022931",
+            "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/6000/300/6379/6379.strip.sunday.gif",
+            "http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css",
+            "http://requirejs.org/docs/release/1.0.3/minified/require.js",
+            "http://tomblomfield.com",
+            "http://tomblomfield.com/rss",
+            "http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586?s=128&d=identicon&r=PG",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3RvbWJsb21maWVsZC5jb21cLyIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC8iLCJwb3N0cyI6W3sicG9zdGlkIjoiMTM2NzU5NDQxODcwIiwiYmxvZ2lkIjoiMzk5MjE0NTQiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjEzNTEyMDYwMDM2MCIsImJsb2dpZCI6IjM5OTIxNDU0Iiwic291cmNlIjozM30seyJwb3N0aWQiOiIxMzI4MTAzOTAxNTUiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiOTczMDQ0MTA1MDAiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiODExMDUxNDMyMjMiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiODExMTE5Mzg1NjMiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiNjI2MTkyODI3OTciLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiNjIzNDI5NDkyOTQiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiNjE5NTg2MjkxNTYiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiNjE3NjA1NTIzOTgiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9XSwibm9zY3JpcHQiOjF9&U=DBMFKLLGMN&K=015cfa61924ea849c59052c3fdd3dc0bc8884f48415912ec0bc0738f7c31487e&R=",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvIiwicmVxdHlwZSI6MCwicm91dGUiOiJcLyIsIm5vc2NyaXB0IjoxfQ==&U=CJAPKHCBLF&K=9b1a989b3829216c627ca78c7f9b4306b912c9f0e903f0d3c4de8d580ba6670d&R=",
+            "ios-app://305343404/tumblr/x-callback-url/blog?blogName=tomblomfield"
+        ],
+        "links": [
+            "",
+            "about",
+            "archive",
+            "day/2013/09/20",
+            "day/2013/09/22",
+            "day/2013/09/26",
+            "day/2013/09/29",
+            "day/2014/03/29",
+            "day/2014/07/10",
+            "day/2014/09/12",
+            "day/2015/11/08",
+            "day/2015/12/13",
+            "day/2016/01/14",
+            "page/2",
+            "random"
+        ]
+    },
+    "page/2": {
+        "assets": [
+            "android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=tomblomfield",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65",
+            "http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af",
+            "http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=29c83e8408db12f26266e69a91022931",
+            "http://cl.ly/2y101u391I2a0X0b3A1N/Screen%20shot%202012-02-05%20at%2014.13.07.png",
+            "http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css",
+            "http://requirejs.org/docs/release/1.0.3/minified/require.js",
+            "http://tomblomfield.com/page/2",
+            "http://tomblomfield.com/rss",
+            "http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586?s=128&d=identicon&r=PG",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3RvbWJsb21maWVsZC5jb21cL3BhZ2VcLzIiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcGFnZVwvOnBhZ2UiLCJwb3N0cyI6W3sicG9zdGlkIjoiNTE1NDc1OTAyOTQiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMzM1MDY4Nzg1NzgiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiIzMzE4NjE4MCIsInJvb3RfcG9zdGlkIjoyMTQzNzgyOTc2OCwicG9zdGlkIjoiMjE0NDA2MDQ0MDMiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMjAyODU4NTQwNzEiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTc1NzE0NDkyMzMiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTY2OTc0OTgwMDUiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTcwOTI1MDI3MDUiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTU0NTkxMjQ0MDciLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTU0NTYxODQ4MjciLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTU0NTE1ODA3MTQiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9XSwibm9zY3JpcHQiOjF9&U=NCDMJKLCKC&K=606758a31797143f0ebb6aa6f058301146015699b1a135eac0cf4bc59006ab0e&R=",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvcGFnZVwvMiIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wYWdlXC86cGFnZSIsIm5vc2NyaXB0IjoxfQ==&U=CBNEBGBGOA&K=8012c0047f818794ab467b4476eb1c9a68ffa25669e5be0eb3fa42681587f982&R=",
+            "ios-app://305343404/tumblr/x-callback-url/blog?blogName=tomblomfield"
+        ],
+        "links": [
+            "",
+            "about",
+            "archive",
+            "day/2012/01/07",
+            "day/2012/02/05",
+            "day/2012/02/13",
+            "day/2012/04/01",
+            "day/2012/04/20",
+            "day/2012/11/08",
+            "day/2013/05/28",
+            "page/1",
+            "page/3",
+            "random"
+        ]
+    },
+    "page/3": {
+        "assets": [
+            "android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=tomblomfield",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65",
+            "http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af",
+            "http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=29c83e8408db12f26266e69a91022931",
+            "http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css",
+            "http://requirejs.org/docs/release/1.0.3/minified/require.js",
+            "http://tomblomfield.com/page/3",
+            "http://tomblomfield.com/rss",
+            "http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586?s=128&d=identicon&r=PG",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3RvbWJsb21maWVsZC5jb21cL3BhZ2VcLzMiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcGFnZVwvOnBhZ2UiLCJwb3N0cyI6W3sicG9zdGlkIjoiMTU0NTA3MDUzMzYiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9XSwibm9zY3JpcHQiOjF9&U=CENMEAPIHO&K=11370d64a29a2a021808a8ef1419d3e05b7ad92038b5da0d414c121a8abea95c&R=",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvcGFnZVwvMyIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wYWdlXC86cGFnZSIsIm5vc2NyaXB0IjoxfQ==&U=LAKDPOAJIC&K=37df701123201c6da85f8d13cc896648725c2977d4aad4c606a42b812404a754&R=",
+            "ios-app://305343404/tumblr/x-callback-url/blog?blogName=tomblomfield"
+        ],
+        "links": [
+            "",
+            "about",
+            "archive",
+            "day/2012/01/07",
+            "page/2",
+            "random"
+        ]
+    },
+    "random": {
+        "assets": [
+            "android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=tomblomfield%26postID=132810390155",
+            "http://68.media.tumblr.com/avatar_5a0ca111cfa2_16.png",
+            "http://68.media.tumblr.com/avatar_80ec88226fe4_16.png",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_128.png",
+            "http://68.media.tumblr.com/avatar_85f6b894c803_16.png",
+            "http://68.media.tumblr.com/avatar_97059ee1c178_16.png",
+            "http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65",
+            "http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af",
+            "http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=29c83e8408db12f26266e69a91022931",
+            "http://assets.tumblr.com/images/default_avatar/cube_open_16.png",
+            "http://assets.tumblr.com/images/default_avatar_16.png",
+            "http://disqus.com/forums/tomblomfield/embed.js",
+            "http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css",
+            "http://requirejs.org/docs/release/1.0.3/minified/require.js",
+            "http://tomblomfield.com/post/132810390155/getting-shit-done",
+            "http://tomblomfield.com/rss",
+            "http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586?s=128&d=identicon&r=PG",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3RvbWJsb21maWVsZC5jb21cL3Bvc3RcLzEzMjgxMDM5MDE1NVwvZ2V0dGluZy1zaGl0LWRvbmUiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSIsInBvc3RzIjpbeyJwb3N0aWQiOiIxMzI4MTAzOTAxNTUiLCJibG9naWQiOiIzOTkyMTQ1NCIsInNvdXJjZSI6MzN9XSwibm9zY3JpcHQiOjF9&U=EKAJGNNKBH&K=7945cb40ac5d8e59b6130d5354397de22af7e98698c6e8ee9bb6fedfa9bdfb9e&R=",
+            "https://px.srvcs.tumblr.com/impixu?T=1482250506&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdG9tYmxvbWZpZWxkLmNvbVwvcG9zdFwvMTMyODEwMzkwMTU1XC9nZXR0aW5nLXNoaXQtZG9uZSIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wb3N0XC86aWRcLzpzdW1tYXJ5Iiwibm9zY3JpcHQiOjF9&U=IOBPGDLOIJ&K=64444903bf0747ea10a7944c22f8076c30689d653068be14367630dd8b674b4c&R=",
+            "https://www.tumblr.com/oembed/1.0?url=http://tomblomfield.com/post/132810390155/getting-shit-done",
+            "ios-app://305343404/tumblr/x-callback-url/blog?blogName=tomblomfield&postID=132810390155"
+        ],
+        "links": [
+            "",
+            "about",
+            "archive",
+            "day/2015/11/08",
+            "random"
+        ]
+    }
+}

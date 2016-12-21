@@ -9,9 +9,5 @@ if __package__ == '':
 from crawler.crawl import main as crawler_main  # NOQA
 
 
-def main():
-    crawler_main()
-
-
 if __name__ == '__main__':
-    main()
+    crawler_main()
