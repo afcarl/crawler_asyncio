@@ -46,7 +46,7 @@ class WebGetter(Getter):
 
     async def get(self, path):
         uri = safe_join_path(self.domain, path)
-        with async_timeout.timeout(10):
+        with async_timeout.timeout(5):
             async with self.session.get(uri) as response:
                 return await response.text()
 

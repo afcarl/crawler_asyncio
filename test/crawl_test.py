@@ -1,7 +1,7 @@
 import pytest
 from crawler.crawl import crawl
 
-
+@pytest.mark.skip(reason='blog website has changed')
 @pytest.mark.asyncio
 async def test_crawl_is_same():
     map1 = await crawl('', 'test_data/local_website', True)
