@@ -1,0 +1,10 @@
+{
+  "name": "detect-crm",
+  "description": "Some side project",
+  "repository": "",
+  "env": {
+    "JUPYTER_NOTEBOOK_PASSWORD": {
+      "description": "IMPORTANT! Set a secure password."
+    }
+  }
+}

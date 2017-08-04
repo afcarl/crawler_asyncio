@@ -42,11 +42,16 @@ class WebGetter(Getter):
     def __init__(self, domain):
         self.domain = domain
         loop = asyncio.get_event_loop()
-        self.session = aiohttp.ClientSession(loop=loop)
+        self.session = aiohttp.ClientSession(
+            loop=loop,
+            headers={
+                'Accept-Language': 'en-US,en'  # To try and get more redirects
+            }
+        )
 
     async def get(self, path):
         uri = safe_join_path(self.domain, path)
-        with async_timeout.timeout(10):
+        with async_timeout.timeout(5):
             async with self.session.get(uri) as response:
                 return await response.text()
 

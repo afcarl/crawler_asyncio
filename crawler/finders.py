@@ -39,3 +39,13 @@ class StaticAssetsFinder(Finder):
         scripts = get_all('src', 'script')
 
         return set(other_links + images + scripts)
+
+
+class ScriptFinder(Finder):
+    def find_all(self, parsed_html):
+        def get_all(attr, tag):
+            return [link.get(attr) for link in parsed_html.find_all(tag) if link.get(attr) is not None]
+
+        scripts = get_all('src', 'script')
+
+        return set(scripts)

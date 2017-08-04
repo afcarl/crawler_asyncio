@@ -9,7 +9,7 @@ def test_internal_links():
     link_finder = InternalLinkFinder('samcoope.com')
     links = link_finder.find_all(parsed_html)
 
-    assert links == {'posts/slices', '/about', 'posts/reading-faces', 'index.html', 'posts/making_the_blog'}
+    assert links == {'posts/slices', 'about', 'posts/reading-faces', 'index.html', 'posts/making_the_blog'}
 
 
 def test_static_assets_finder():
@@ -18,7 +18,7 @@ def test_static_assets_finder():
         'resource/images/me.jpeg',
         'resource/images/favicon.ico',
         'https://fonts.googleapis.com/css?family=VT323',
-        'https://fonts.googleapis.com/css?family=Merriweather:400,400italic,300italic,300,700,700italic,900,900italic&subset=latin,latin-ext',
+        'https://fonts.googleapis.com/css?family=Merriweather:400,400italic,300italic,300,700,700italic,900,900italic&subset=latin,latin-ext',  # NOQA
         'resource/styles/main.css'
     }
     html = open('test_data/local_website/index.html').read()
